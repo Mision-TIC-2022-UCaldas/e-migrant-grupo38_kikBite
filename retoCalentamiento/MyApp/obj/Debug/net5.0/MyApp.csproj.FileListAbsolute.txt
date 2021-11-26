@@ -1,0 +1,16 @@
+G:\personal\mintic\hackaton\Prueba\MyApp\bin\Debug\net5.0\MyApp.exe
+G:\personal\mintic\hackaton\Prueba\MyApp\bin\Debug\net5.0\MyApp.deps.json
+G:\personal\mintic\hackaton\Prueba\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.json
+G:\personal\mintic\hackaton\Prueba\MyApp\bin\Debug\net5.0\MyApp.runtimeconfig.dev.json
+G:\personal\mintic\hackaton\Prueba\MyApp\bin\Debug\net5.0\MyApp.dll
+G:\personal\mintic\hackaton\Prueba\MyApp\bin\Debug\net5.0\ref\MyApp.dll
+G:\personal\mintic\hackaton\Prueba\MyApp\bin\Debug\net5.0\MyApp.pdb
+G:\personal\mintic\hackaton\Prueba\MyApp\obj\Debug\net5.0\MyApp.csproj.AssemblyReference.cache
+G:\personal\mintic\hackaton\Prueba\MyApp\obj\Debug\net5.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+G:\personal\mintic\hackaton\Prueba\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfoInputs.cache
+G:\personal\mintic\hackaton\Prueba\MyApp\obj\Debug\net5.0\MyApp.AssemblyInfo.cs
+G:\personal\mintic\hackaton\Prueba\MyApp\obj\Debug\net5.0\MyApp.csproj.CoreCompileInputs.cache
+G:\personal\mintic\hackaton\Prueba\MyApp\obj\Debug\net5.0\MyApp.dll
+G:\personal\mintic\hackaton\Prueba\MyApp\obj\Debug\net5.0\ref\MyApp.dll
+G:\personal\mintic\hackaton\Prueba\MyApp\obj\Debug\net5.0\MyApp.pdb
+G:\personal\mintic\hackaton\Prueba\MyApp\obj\Debug\net5.0\MyApp.genruntimeconfig.cache
