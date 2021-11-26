@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "M/Di2oYji8Y+qAMUNSIeytMhIaA8urVhdV9O5x6ut5HKc7Al3s6aPjtV3ozkRmiWramgNQandvPulSlFAM7s7Q==",
+  "success": true,
+  "projectFilePath": "C:\\EMigrantHAck38\\EMigrantHack38.App\\EMigrantHack38.App.Dominio\\EMigrantHack38.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\thali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
