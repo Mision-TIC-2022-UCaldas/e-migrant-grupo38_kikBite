@@ -1,0 +1,10 @@
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\obj\Debug\netstandard2.0\EMigrantHack38.App.Dominio.csproj.AssemblyReference.cache
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\obj\Debug\netstandard2.0\EMigrantHack38.App.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\obj\Debug\netstandard2.0\EMigrantHack38.App.Dominio.AssemblyInfoInputs.cache
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\obj\Debug\netstandard2.0\EMigrantHack38.App.Dominio.AssemblyInfo.cs
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\obj\Debug\netstandard2.0\EMigrantHack38.App.Dominio.csproj.CoreCompileInputs.cache
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\bin\Debug\netstandard2.0\EMigrantHack38.App.Dominio.deps.json
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\bin\Debug\netstandard2.0\EMigrantHack38.App.Dominio.dll
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\bin\Debug\netstandard2.0\EMigrantHack38.App.Dominio.pdb
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\obj\Debug\netstandard2.0\EMigrantHack38.App.Dominio.dll
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Dominio\obj\Debug\netstandard2.0\EMigrantHack38.App.Dominio.pdb

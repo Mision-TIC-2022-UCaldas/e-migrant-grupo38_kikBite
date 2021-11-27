@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "M/Di2oYji8Y+qAMUNSIeytMhIaA8urVhdV9O5x6ut5HKc7Al3s6aPjtV3ozkRmiWramgNQandvPulSlFAM7s7Q==",
+  "dgSpecHash": "nLFTZbz/jZGofPdMD3k03ltxYeyKiID+5VkqTz1Yz1wCy3LzBEoj//t09H7Yvd4l1W04f/DzbCwaujasm8/DRw==",
   "success": true,
-  "projectFilePath": "C:\\EMigrantHAck38\\EMigrantHack38.App\\EMigrantHack38.App.Dominio\\EMigrantHack38.App.Dominio.csproj",
+  "projectFilePath": "G:\\personal\\mintic\\hackaton1\\eMigrants\\EMigrantHack38.App\\EMigrantHack38.App.Dominio\\EMigrantHack38.App.Dominio.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\thali\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\thali\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\juanf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\juanf\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
   ],
   "logs": []
 }

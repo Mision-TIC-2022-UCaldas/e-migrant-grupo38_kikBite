@@ -1,0 +1,13 @@
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\obj\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.csproj.AssemblyReference.cache
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\obj\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\obj\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.AssemblyInfoInputs.cache
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\obj\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.AssemblyInfo.cs
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\obj\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.csproj.CoreCompileInputs.cache
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\bin\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.deps.json
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\bin\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.dll
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\bin\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.pdb
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\bin\Debug\netstandard2.1\EMigrantHack38.App.Dominio.dll
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\bin\Debug\netstandard2.1\EMigrantHack38.App.Dominio.pdb
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\obj\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.csproj.CopyComplete
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\obj\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.dll
+G:\personal\mintic\hackaton1\eMigrants\EMigrantHack38.App\EMigrantHack38.App.Persistencia\obj\Debug\netstandard2.1\EMigrantHack38.App.Persistencia.pdb

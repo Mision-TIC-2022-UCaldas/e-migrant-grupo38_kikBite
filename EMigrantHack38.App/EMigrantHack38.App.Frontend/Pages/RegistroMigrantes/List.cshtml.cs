@@ -5,28 +5,34 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace EMigrantHack38.App.Frontend.Pages
+using EMigrantHack38.App.Dominio;
+using EMigrantHack38.App.Persistencia;
+
+namespace EMigrantHack38.App.Pages
 {
     public class ListModel : PageModel
     {
-        private readonly IRepositorioPaciente _repoPaciente;
-        private readonly IRepositorioMedico _repoMedico;
-        public Paciente paciente {get; set;}
-        public IEnumerable<Medico> medicos {get; set;}
-        public AddMedicoModel(IRepositorioPaciente repoPaciente, IRepositorioMedico repoMedico)
+       private readonly IRepositorioMigrante _repoMigrante;
+        public Migrante migrante {get; set;}
+
+        public ListModel(IRepositorioMigrante repoMigrante)
         {
-            _repoPaciente=repoPaciente;
-            _repoMedico=repoMedico;
+            _repoMigrante = repoMigrante;
         }
-        public void OnGet(int id)
+        public void OnGet()
         {
-            paciente=_repoPaciente.GetPaciente(id);
-            medicos=_repoMedico.GetAllMedicos();
+            migrante = new Migrante();
         }
-        public IActionResult OnPost(int idPaciente, int idMedico)
+        public IActionResult OnPost(Migrante migrante)
         {
-            _repoPaciente.AsignarMedico(idPaciente, idMedico);
-            return RedirectToPage("Details1", new {id=idPaciente});
+            if (ModelState.IsValid)
+            {
+                _repoMigrante.AddMigrante(migrante);
+                return RedirectToPage("Index1");
+            } else
+            {
+                return Page();
+            }
         }
     }
 }

@@ -9,6 +9,9 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 
+using EMigrantHack38.App.Dominio;
+using EMigrantHack38.App.Persistencia;
+
 namespace EMigrantHack38.App.Frontend
 {
     public class Startup
@@ -23,7 +26,11 @@ namespace EMigrantHack38.App.Frontend
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddControllersWithViews();
             services.AddRazorPages();
+            services.AddSingleton<IRepositorioMigrante, RepositorioMigrante>();
+            services.AddScoped<IRepositorioMigrante, RepositorioMigrante>();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -45,6 +52,7 @@ namespace EMigrantHack38.App.Frontend
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>

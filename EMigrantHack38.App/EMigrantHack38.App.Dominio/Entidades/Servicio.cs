@@ -1,4 +1,6 @@
-namespace EMigrantHack38.App.Dominio.Entidades
+using System;
+
+namespace EMigrantHack38.App.Dominio
 {
 
  public class Servicio

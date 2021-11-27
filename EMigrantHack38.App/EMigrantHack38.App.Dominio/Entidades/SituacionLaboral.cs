@@ -5,7 +5,7 @@ namespace EMigrantHack38.App.Dominio
     /// <summary>
     /// Lista de generos
     /// </summary>
-    public enum TipoDocumento
+    public enum SituacionLaboral
     {
         Empleado,
         Desempleado,

@@ -1,7 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using EMigrantHack38.App.Dominio;
 
-namespace MiApp.Persistencia
+namespace EMigrantHack38.App.Persistencia
 {
     public class AppContext : DbContext
     {
@@ -11,7 +11,7 @@ namespace MiApp.Persistencia
         {
             if (!optionsBuilder.IsConfigured)
             {
-                 optionsBuilder.UseSqlServer("Data Source = (localdb)\\MSSQLLocalDB; Initial Catalog = EMigrantHack38");
+                optionsBuilder.UseSqlServer("Server=localhost\\SQLEXPRESS;Database=master;Trusted_Connection=True; Initial Catalog = EMigrantHack38Data; Integrated Security = true;");
                 //optionsBuilder.UseSqlServer("Data Source = DTDAGUILAR\\SQLEXPRESS; Trusted_Connection=True; Initial Catalog = Transito4");
                 // Server=localhost\SQLEXPRESS;Database=master;Trusted_Connection=True;
             }

@@ -1,13 +1,11 @@
+using System;
 using System.Collections.Generic;
-using MiApp.Dominio;
+using System.Linq;
+using EMigrantHack38.App.Dominio;
 
-namespace EMigrantHack38.App.Persistencia.Repositorios
+namespace EMigrantHack38.App.Persistencia
 {
     public interface IRepositorioMigrante{
-        Persona UpdatePersona(Persona persona);
-        void DeletePersona(int idPersona);
-        Persona GetPersona(int idPersona);
-        Persona GetPersonaXDocumento(string idDocumento);
-        IEnumerable<Persona> GetPersonasXAccidente(int idAccidente);
+        Migrante AddMigrante(Migrante migrante);
     }
 }
